@@ -5,6 +5,7 @@ public class GitCool {
 
         // B23 IS LEARNING GIT
         // we were able to shared project under our github account
+        // coloured icon
 
     }
 }
