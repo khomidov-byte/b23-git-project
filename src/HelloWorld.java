@@ -2,7 +2,8 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Hello git world");
-        System.out.println("Created Git Repository");
+        System.out.println("Adding awesome codes");
+
 
     }
 }
